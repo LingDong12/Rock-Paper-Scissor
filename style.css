@@ -1,0 +1,31 @@
+.containner{
+    background-color: lightcoral;
+    padding: 0;
+    margin-left:230px;
+    margin-right:230px;
+    border-top:  5px;
+    border: solid 3px;
+    text-align: center;
+    
+}
+.containner h1{
+    color: white;
+    padding: 40px;
+}
+
+.containner button{
+    border-radius: 50%;
+    font-size: 70px;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightpink;
+}
+.containner button:hover{
+    cursor: pointer;
+    color: white;
+    background-color:gray;
+}
+.containner span{
+    color: green;
+}
+
